@@ -8,5 +8,5 @@ fn main() {
 
     assert!(now.elapsed() >= ten_secs);
 
-    println!("Hello, world!");
+    println!("Hello, worlds!");
 }
